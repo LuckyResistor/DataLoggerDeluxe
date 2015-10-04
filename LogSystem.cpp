@@ -259,6 +259,7 @@ void format()
 {
     zeroInternalRecord(0);
     zeroInternalRecord(1);
+    gCurrentNumberOfRecords = 0;
 }
 
     
